@@ -2,6 +2,10 @@
 
 A modern movie and TV show search application with watchlist functionality and video playback.
 
+## 🌐 Live Demo
+
+[View Movie Search App](https://RavenGames.github.io/movie-search/)
+
 ## 🚀 Features
 
 - **Movie/TV Search**: Search movies and TV shows using OMDb API
